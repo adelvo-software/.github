@@ -28,4 +28,4 @@ Free virtual stereo audio devices for macOS — up to 8 independent BlackHole-ba
 
 ---
 
-Adelvo · [adelvo.io](https://adelvo.io)
+Adelvo Software · [adelvo.io](https://adelvo.io)
