@@ -1,4 +1,4 @@
-# Adelvo Inc.
+# Adelvo
 
 **Professional software tools for live video production, audio routing, and media workflows.**
 
