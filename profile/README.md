@@ -11,20 +11,20 @@ Professional vMix control & automation software for live productions. Timeline-b
 
 ![Directors Plan](images/directors-plan.jpg)
 
-### 🔊 [Volume Balance](https://adelvo.io/volume-balance)
-Browser extension that normalizes audio levels across all tabs. Audio compressor with threshold, ratio, knee, attack, release, and makeup gain. Chrome, Firefox, Safari.
+### 🌍 [LLT — Local Live Translator](https://adelvo.io/local-live-translator)
+On-device LLM translation using Apple Silicon. App audio or microphone input with real-time overlay. 101 languages. Private, fast, no cloud dependency.
 
-![Volume Balance](images/volume-balance.jpg)
+![LLT — Local Live Translator](images/llt.jpg)
 
 ### 🎛️ [MDE — Mix Desk EQ](https://adelvo.io/mix-desk-eq)
 Professional audio routing & mixer for macOS. Capture individual app audio, mic, webcam, and line-in simultaneously. Up to 4 stereo outputs with 2/3/11-band EQ, delay compensation, and gain. 3 energy modes. Includes free BlackHole-based audio drivers.
 
 ![MDE — Mix Desk EQ](images/mde.jpg)
 
-### 🌍 [LLT — Local Live Translator](https://adelvo.io/local-live-translator)
-On-device LLM translation using Apple Silicon. App audio or microphone input with real-time overlay. 101 languages. Private, fast, no cloud dependency.
+### 🔊 [Volume Balance](https://adelvo.io/volume-balance)
+Browser extension that normalizes audio levels across all tabs. Audio compressor with threshold, ratio, knee, attack, release, and makeup gain. Chrome, Firefox, Safari.
 
-![LLT — Local Live Translator](images/llt.jpg)
+![Volume Balance](images/volume-balance.jpg)
 
 ## Free & Open Source Tools
 
