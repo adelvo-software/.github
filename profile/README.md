@@ -21,6 +21,11 @@ Professional audio routing & mixer for macOS. Capture individual app audio, mic,
 
 ![MDE — Mix Desk EQ](images/mde.jpg)
 
+### 🎚️ [MixDesk X](https://github.com/adelvo-software/MixDeskX) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Free](https://img.shields.io/badge/Free-3b82f6?style=flat) ![Windows](https://img.shields.io/badge/Windows-10b981?style=flat) ![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
+Free multi-device audio mixer & router. CLAP effect chains with native plugin GUIs on every input and bus, 2/3/11-band EQ, per-bus delay to sync Bluetooth with wired speakers, 9 UI languages, in-app updates. [Download →](https://github.com/adelvo-software/MixDeskX/releases/latest)
+
+![MixDesk X](images/mixdeskx.jpg)
+
 ### 🔊 [Volume Balance](https://adelvo.io/volume-balance) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Browser Extension](https://img.shields.io/badge/Browser_Extension-00cce6?style=flat)
 Browser extension that normalizes audio levels across all tabs. Audio compressor with threshold, ratio, knee, attack, release, and makeup gain. Chrome, Firefox, Safari.
 
@@ -28,12 +33,12 @@ Browser extension that normalizes audio levels across all tabs. Audio compressor
 
 ## Free & Open Source Tools
 
-### 🖼️ [DP Thumbnail Server](https://github.com/AdelvoInc/dp-thumbnail-server) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Windows](https://img.shields.io/badge/Windows-10b981?style=flat)
+### 🖼️ [DP Thumbnail Server](https://github.com/adelvo-software/dp-thumbnail-server) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Windows](https://img.shields.io/badge/Windows-10b981?style=flat)
 Fast vMix input thumbnail generator. Supports all input types, key-based URLs, and auto-refresh web UI. [Download →](https://adelvo.io/directors-plan/#thumbnail-server)
 
 ![DP Thumbnail Server](https://raw.githubusercontent.com/adelvo-software/dp-thumbnail-server/main/docs/screenshot.jpg)
 
-### 🔌 [MDE Audio Drivers](https://github.com/AdelvoInc/mde-audio-drivers) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
+### 🔌 [MDE Audio Drivers](https://github.com/adelvo-software/mde-audio-drivers) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
 Free virtual stereo audio devices for macOS — up to 8 independent BlackHole-based drivers. Standard .pkg installer with customizable components. GPL-3.0.
 
 ![MDE Audio Drivers](images/mde-audio-drivers.jpg)
