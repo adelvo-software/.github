@@ -9,7 +9,7 @@
 ### 🎬 [Directors Plan](https://adelvo.io/directors-plan) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Windows](https://img.shields.io/badge/Windows-10b981?style=flat) ![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
 Professional vMix control & automation software for live productions. Timeline-based rundown planning, drag & drop commands, Stream Deck / Companion export, 20+ languages. For churches, sports broadcasts, and corporate events.
 
-![Directors Plan](images/directors-plan.jpg)
+![Directors Plan](images/Hero194.jpg)
 
 ### 🌍 [LLT — Local Live Translator](https://adelvo.io/local-live-translator) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat) ![iOS](https://img.shields.io/badge/iOS-ee2c43?style=flat)
 On-device LLM translation using Apple Silicon. App audio or microphone input with real-time overlay. 101 languages. Private, fast, no cloud dependency.
