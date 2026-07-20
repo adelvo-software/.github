@@ -16,13 +16,8 @@ On-device LLM translation using Apple Silicon. App audio or microphone input wit
 
 ![LLT — Local Live Translator](images/llt.jpg)
 
-### 🎛️ [MDE — Mix Desk EQ](https://adelvo.io/mix-desk-eq) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
-Professional audio routing & mixer for macOS. Capture individual app audio, mic, webcam, and line-in simultaneously. Up to 4 stereo outputs with 2/3/11-band EQ, delay compensation, and gain. 3 energy modes. Includes free BlackHole-based audio drivers.
-
-![MDE — Mix Desk EQ](images/mde.jpg)
-
-### 🎚️ [MixDesk X](https://github.com/adelvo-software/MixDeskX) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Free](https://img.shields.io/badge/Free-3b82f6?style=flat) ![Windows](https://img.shields.io/badge/Windows-10b981?style=flat) ![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
-Free multi-device audio mixer & router. CLAP effect chains with native plugin GUIs on every input and bus, 2/3/11-band EQ, per-bus delay to sync Bluetooth with wired speakers, 9 UI languages, in-app updates. [Download →](https://github.com/adelvo-software/MixDeskX/releases/latest)
+### 🎚️ [MixDesk X](https://adelvo.io/mix-desk-x) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Free](https://img.shields.io/badge/Free-3b82f6?style=flat) ![Windows](https://img.shields.io/badge/Windows-10b981?style=flat) ![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
+Free multi-device audio mixer & router for macOS and Windows. Cable-free system & per-app audio capture, CLAP effect chains with native plugin GUIs on every input and bus, 2/3/11-band EQ, per-bus delay to sync Bluetooth with wired speakers, 9 UI languages, in-app updates. Successor to MDE — Mix Desk EQ. [Download →](https://github.com/adelvo-software/MixDeskX/releases/latest)
 
 ![MixDesk X](images/mixdeskx.jpg)
 
