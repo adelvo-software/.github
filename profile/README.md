@@ -6,7 +6,7 @@
 
 ## Products
 
-### 🎬 [Directors Plan](https://adelvo.io/directors-plan) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Windows](https://img.shields.io/badge/Windows-10b981?style=flat) ![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat)
+### 🎬 [Directors Plan](https://adelvo.io/directors-plan) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Windows](https://img.shields.io/badge/Windows-10b981?style=flat) ![macOS](https://img.shields.io/badge/macOS-ff7e00?style=flat) ![Linux](https://img.shields.io/badge/Linux_.deb-4870c8?style=flat)
 Professional vMix control & automation software for live productions. Timeline-based rundown planning, drag & drop commands, Stream Deck / Companion export, 20+ languages. For churches, sports broadcasts, and corporate events.
 
 ![Directors Plan](images/Hero194.jpg)
